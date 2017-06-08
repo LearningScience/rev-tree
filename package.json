@@ -1,6 +1,6 @@
 {
 	"name": "rev-tree",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"main": "lib/rev-tree.js",
 	"directories": {
 		"bin": "bin",
