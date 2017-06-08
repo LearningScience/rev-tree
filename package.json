@@ -1,0 +1,23 @@
+{
+	"name": "rev-tree",
+	"version": "0.0.0",
+	"main": "lib/rev-tree.js",
+	"directories": {
+		"bin": "bin",
+		"lib": "lib",
+		"man": "man"
+	},
+	"author": "Thomas Brierley",
+	"license": "MIT",
+	"description": "Reliable filename revisioning",
+	"keywords": [
+		"revision",
+		"cache",
+		"busting"
+	],
+	"repository": "github:learningscience/rev-tree",
+	"dependencies": {
+		"shelljs": "^0",
+		"through2": "^2"
+	}
+}
